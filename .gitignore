@@ -1,0 +1,14 @@
+## Ignore Visual Studio & .NET artifacts
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+.idea/
+.vscode/
+*.local.settings.json
+appsettings.Development.json
+appsettings.Production.json
